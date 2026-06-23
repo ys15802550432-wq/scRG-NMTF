@@ -119,7 +119,7 @@ If you find this code, the dataset, or our framework useful for your research, p
   title={Robust Graph Regularized Multi-view Non-negative Matrix Tri-factorization for Integrative Single-cell Multi-omics Clustering},
   author={Yuan, Sheng and Che, Hangjun and Su, Jingfeng and Wang, Huiwei and Wang, Yadi and Liu, Cheng and Leung, Man-Fai},
   journal={Pattern Recognition},
-  year={2024},
+  year={2026},
   note={Under Review}
 }
 
