@@ -22,12 +22,7 @@ The rapid evolution of single-cell multi-omics sequencing offers profound insigh
 
 ---
 
-## 🚀 Framework Overview
-
-![scRG-NMTF Framework](https://via.placeholder.com/800x400.png?text=Please+Upload+Your+Framework+Image+Here)
-*(Please replace the placeholder image link above with the actual link to your `Framework.png` after uploading it to this repository).*
-
----
+## 🚀 Framework Overview (Framework.pdf)
 
 ## 📁 Repository Structure
 
