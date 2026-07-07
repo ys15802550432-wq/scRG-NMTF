@@ -22,7 +22,7 @@ The rapid evolution of single-cell multi-omics sequencing offers profound insigh
 
 ---
 
-## 🚀 Framework Overview (Framework.pdf)
+## 🚀 Framework Overview (Framework.pdf or Framework.png)
 
 ## 📁 Repository Structure
 
